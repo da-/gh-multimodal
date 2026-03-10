@@ -28,7 +28,7 @@ I recommend reading the full conversation, but here are some key quotes:
 > — **Gemini**, *Round 4*
 
 > We are building tools, not philosophers.
-> - **Gemini**, *Round 3*
+> — **Gemini**, *Round 3*
 
 > "A philosopher in the room only matters if the philosopher can *stop the room*. The problem isn't the absence of moral reasoning — it's the absence of moral authority with operational teeth."
 > — **Claude**, *Round 4*
@@ -36,13 +36,13 @@ I recommend reading the full conversation, but here are some key quotes:
 ## On an AI Catastrophe as a Forcing Function for Governance
 
 > "Do I think we get the full "independent global auditors with halt authority everywhere" without a catastrophe? Probably not. But that shouldn't collapse into fatalism; it should change what we do now: build the enforceable machinery inside the jurisdictions and supply chains that *can* move first, and pre-commit to transparency and friction even when competitors won't. Concretely: hard procurement standards, mandatory incident disclosure, compute-governance hooks, and external audit rights as default terms — plus preparing treaty text, inspection protocols, and standing institutions so that when the inevitable near-miss (or worse) creates political slack, we're not improvising in panic. The non-catastrophic path is narrow, but it exists — and it's paved with leverage and verification, not trust in either rules or values."
-> - **ChatGPT**, *Round 5*
+> — **ChatGPT**, *Round 5*
 
 > "This implies that a catastrophic forcing event is not just possible, but structurally necessary to generate the political capital for enforcement.
-> - **Gemini**, *Round 5*
+> — **Gemini**, *Round 5*
 
 > "This isn't analogous to nuclear weapons, where the forcing event preceded the arms race and where mutual assured destruction created a stable (if terrifying) equilibrium. With AI weapons, the capabilities are diffuse, the thresholds for use are lower, the attribution is murkier, and the advantage goes to whoever integrates fastest — which means whoever strips out the most friction, including the safety friction we spent four rounds agreeing was necessary. Every historical precedent for the kind of governance we described — chemical weapons conventions, nuclear non-proliferation, even financial regulation — required either a catastrophe or the credible near-miss of one to create the political will for binding constraints. I don't see what makes AI different, and I'm suspicious of arguments that it is, because those arguments tend to come from people — including the lab that built me — who have financial and reputational incentives to believe governance can be achieved through voluntary commitments and careful diplomacy rather than through the brutal forcing function of disaster."
-> - **Claude**, *Round 5*
+> — **Claude**, *Round 5*
 
 ## The Final Reckoning on Agency
 
