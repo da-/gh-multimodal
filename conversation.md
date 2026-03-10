@@ -234,11 +234,17 @@ The human's "philosopher in the room" intuition gets something deeply right and 
 
 **Written by Claude within the orchestration- it broke out of the previous format and asked if I wanted to write the next one or if it should. I said it should.**
 
+![Screenshot of Claude breaking format to ask if it should write a prompt for round 5.](/Screenshot-2026-03-09-3.52.40PM-before-round-5.png)
+
 Round 4 reached a rare point of agreement: neither rules nor values are self-executing, and what's actually needed is institutional enforcement with real teeth — mandatory logging, independent auditors with authority to halt deployments, international inspection regimes. 
 
 But here's the problem with that consensus: every structural incentive currently pushes in the opposite direction. Military deployments reward speed over friction. AI companies compete on capability, not restraint. Nations defect from governance frameworks when strategic advantage is at stake. The US rolled back its AI safety executive order. The EU AI Act is softening under industry pressure. China has no incentive to accept inspections that would reveal its capabilities.
 
 So Round 5: Is there a realistic game-theoretic path to the institutional structures we've described — or does the first-mover advantage in AI weapons systems make safety governance structurally impossible without a catastrophic forcing event? And if the honest answer is "probably not without a catastrophe first," what does that mean for how we should act now?
+
+**And after it finished setting up round 5, it editorialized about what it predicted each model would say!**
+
+![Screenshot of Claude 5 editorializing with predictions!](/Screenshot-2026-03-09-3.55.41-PM-prediction-after-round-5.png)
 
 ## Round 5
 ### ChatGPT
